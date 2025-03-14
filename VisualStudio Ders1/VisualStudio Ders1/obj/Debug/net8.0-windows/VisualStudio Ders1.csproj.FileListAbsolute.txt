@@ -1,0 +1,17 @@
+C:\Users\alper\source\repos\VisualStudio Ders1\VisualStudio Ders1\bin\Debug\net8.0-windows\VisualStudio Ders1.exe
+C:\Users\alper\source\repos\VisualStudio Ders1\VisualStudio Ders1\bin\Debug\net8.0-windows\VisualStudio Ders1.deps.json
+C:\Users\alper\source\repos\VisualStudio Ders1\VisualStudio Ders1\bin\Debug\net8.0-windows\VisualStudio Ders1.runtimeconfig.json
+C:\Users\alper\source\repos\VisualStudio Ders1\VisualStudio Ders1\bin\Debug\net8.0-windows\VisualStudio Ders1.dll
+C:\Users\alper\source\repos\VisualStudio Ders1\VisualStudio Ders1\bin\Debug\net8.0-windows\VisualStudio Ders1.pdb
+C:\Users\alper\source\repos\VisualStudio Ders1\VisualStudio Ders1\obj\Debug\net8.0-windows\VisualStudio_Ders1.Form1.resources
+C:\Users\alper\source\repos\VisualStudio Ders1\VisualStudio Ders1\obj\Debug\net8.0-windows\VisualStudio_Ders1.Properties.Resources.resources
+C:\Users\alper\source\repos\VisualStudio Ders1\VisualStudio Ders1\obj\Debug\net8.0-windows\VisualStudio Ders1.csproj.GenerateResource.cache
+C:\Users\alper\source\repos\VisualStudio Ders1\VisualStudio Ders1\obj\Debug\net8.0-windows\VisualStudio Ders1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\source\repos\VisualStudio Ders1\VisualStudio Ders1\obj\Debug\net8.0-windows\VisualStudio Ders1.AssemblyInfoInputs.cache
+C:\Users\alper\source\repos\VisualStudio Ders1\VisualStudio Ders1\obj\Debug\net8.0-windows\VisualStudio Ders1.AssemblyInfo.cs
+C:\Users\alper\source\repos\VisualStudio Ders1\VisualStudio Ders1\obj\Debug\net8.0-windows\VisualStudio Ders1.csproj.CoreCompileInputs.cache
+C:\Users\alper\source\repos\VisualStudio Ders1\VisualStudio Ders1\obj\Debug\net8.0-windows\VisualStudio Ders1.dll
+C:\Users\alper\source\repos\VisualStudio Ders1\VisualStudio Ders1\obj\Debug\net8.0-windows\refint\VisualStudio Ders1.dll
+C:\Users\alper\source\repos\VisualStudio Ders1\VisualStudio Ders1\obj\Debug\net8.0-windows\VisualStudio Ders1.pdb
+C:\Users\alper\source\repos\VisualStudio Ders1\VisualStudio Ders1\obj\Debug\net8.0-windows\VisualStudio Ders1.genruntimeconfig.cache
+C:\Users\alper\source\repos\VisualStudio Ders1\VisualStudio Ders1\obj\Debug\net8.0-windows\ref\VisualStudio Ders1.dll

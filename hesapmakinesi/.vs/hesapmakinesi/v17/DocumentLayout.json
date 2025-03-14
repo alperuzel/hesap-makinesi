@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alper\\source\\repos\\hesapmakinesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EECECDF-D12C-4A10-914B-5FC2DAFF67D0}|hesapmakinesi\\hesapmakinesi.csproj|c:\\users\\alper\\source\\repos\\hesapmakinesi\\hesapmakinesi\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EECECDF-D12C-4A10-914B-5FC2DAFF67D0}|hesapmakinesi\\hesapmakinesi.csproj|solutionrelative:hesapmakinesi\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EECECDF-D12C-4A10-914B-5FC2DAFF67D0}|hesapmakinesi\\hesapmakinesi.csproj|c:\\users\\alper\\onedrive\\desktop\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EECECDF-D12C-4A10-914B-5FC2DAFF67D0}|hesapmakinesi\\hesapmakinesi.csproj|c:\\users\\alper\\source\\repos\\hesapmakinesi\\hesapmakinesi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7EECECDF-D12C-4A10-914B-5FC2DAFF67D0}|hesapmakinesi\\hesapmakinesi.csproj|solutionrelative:hesapmakinesi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\hesapmakinesi\\hesapmakinesi\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "hesapmakinesi\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\hesapmakinesi\\hesapmakinesi\\Form1.Designer.cs",
+              "RelativeToolTip": "hesapmakinesi\\Form1.Designer.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAiwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T22:00:28.159Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "aa605657-976b-48f9-8063-8672b48a04c8",
+        "Display": 0,
+        "X": -2,
+        "Y": 93,
+        "Width": 1574,
+        "Height": 784,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\OneDrive\\Desktop\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\OneDrive\\Desktop\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\alper\\OneDrive\\Desktop\\Form1.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\Desktop\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T22:03:10.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\hesapmakinesi\\hesapmakinesi\\Form1.cs",
+              "RelativeDocumentMoniker": "hesapmakinesi\\Form1.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\hesapmakinesi\\hesapmakinesi\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "hesapmakinesi\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T22:00:03.066Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
